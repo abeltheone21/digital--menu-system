@@ -800,7 +800,7 @@ export const cafeInfo = {
   tagline: 'Food That Brings People Together',
   description:
     'A modern Ethiopian eatery in the heart of Addis Ababa, serving hearty plates, grilled specialties, and the classics of Ethiopian home cooking — alongside fresh salads, stacked burgers, and house-made desserts. Every dish is made to order, with locally sourced produce and a whole lot of soul.',
-  address: 'Bole Road, Friendship Building, Addis Ababa, Ethiopia',
+  address: 'merkato, Addis Ababa, Ethiopia',
   phone: '+251 11 467 8900',
   email: 'hello@Dadorestaurant.et',
   hours: [
